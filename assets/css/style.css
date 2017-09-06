@@ -1,0 +1,97 @@
+body {
+  background-image: url("../images/shark.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;   
+ 
+}
+
+
+.jumbotron {
+   background-color:  transparent;
+   color:  white;
+}
+
+
+.h1 {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-weight: bold;
+}
+
+.start { 
+  text-align: center;
+  color:red;
+  font-weight: bold;
+}
+
+.clickHere {
+  width: 100px;
+  height: 50px;
+}
+
+#show-number {
+  color:  white;
+  text-align:  center;
+  font-size:  25px;
+}
+
+#newTrivia1 {
+  color:  white;
+  font-weight:  bold;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px;
+}
+
+#newTrivia2 {
+  color:  white;
+  font-weight: bold;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px;
+}
+
+#newTrivia3 {
+  color:  white;
+  font-weight: bold;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px;
+}
+
+#newTrivia4 {
+  color:  white;
+  font-weight:  bold;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px;
+}
+
+#radioButtons1 {
+  color:  white;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px;
+}
+
+#radioButtons2 {
+  color:  white;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px; 
+}
+
+#radioButtons3 {
+  color:  white;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px; 
+}
+
+#radioButtons4 {
+  color:  white;
+  text-align:  left;
+  margin-left:  20px;
+  font-size:  20px; 
+}
